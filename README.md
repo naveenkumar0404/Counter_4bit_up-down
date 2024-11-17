@@ -108,14 +108,15 @@ Click the cds.lib file and save the file by clicking on Save option
 	Left side you can see the HDL files. Right side of the window has worklib and snapshots directories listed.
 
 	Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
-![image](https://github.com/user-attachments/assets/65d4db5f-46ab-4036-9980-45707124b914)
+     ![373848605-29efc733-efb9-4c52-acf3-6518d4ab0390 (1)](https://github.com/user-attachments/assets/f751c07c-aaf3-46d9-a3b0-fa9dee569c08)
 
 
 ## Fig 6: Nclaunch Window
 
 To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation.
 
-![373848605-29efc733-efb9-4c52-acf3-6518d4ab0390 (1)](https://github.com/user-attachments/assets/f751c07c-aaf3-46d9-a3b0-fa9dee569c08)
+
+![373681850-8ab3ba52-18cf-4256-aa25-dbbe97336043](https://github.com/user-attachments/assets/2d5b7bbd-4403-4259-bc3c-592c726b1c7c)
 
 
 ## Step 1: Compilation:– Process to check the correct Verilog language syntax and usage 
