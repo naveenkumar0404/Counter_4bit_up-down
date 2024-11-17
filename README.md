@@ -59,8 +59,9 @@ Functional Simulation:
 */Program  for  4-Bit Up-Down Counter
 
 	Use Save option or Ctrl+S to save the code or click on the save option from the top most right corner and close the text file.
-![Screenshot 2024-10-03 163749](https://github.com/user-attachments/assets/c72ab652-05cd-4f66-99ba-434834e2be9f)
 
+
+![p2](https://github.com/user-attachments/assets/c1357c4d-093f-475f-86cc-7cca7a10e742)
 
 ## Creating Test bench:
 
